@@ -1,0 +1,20 @@
+.header {
+    font-family: Courgette;
+}
+
+.lead {
+    font-family: Poppins;
+}
+
+.box {
+    padding: 30px 40px;
+    border-radius: 5px;
+}
+
+.jmbtrn {
+    background-color: darksalmon;
+}
+
+.maps {
+    border-radius: 5px;
+}
